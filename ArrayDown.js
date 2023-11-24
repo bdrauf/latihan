@@ -4,7 +4,7 @@ let count = 100;
 function lyric() {
   const wordA = " bottles of beer on the wall, ";
   const wordB = " bottles of beer. ";
-  const wordC = "Take one down and pass it around, ";
+  const wordC = "Take 1 down and pass it around, ";
   const wordD = " bottle of beer on the wall.";
 
   while (count > 0) {
@@ -17,4 +17,3 @@ function lyric() {
 }
 
 lyric();
-

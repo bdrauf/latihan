@@ -3,7 +3,7 @@ function bmiCalculator() {
     Input is string so typecasting is necessary. */
   let height = 180;
 
-  /* Getting input from user into weight variable. 
+  /* Getting input from user into weight variable.
     Input is string so typecasting is necessary.*/
   let weight = 65;
 
